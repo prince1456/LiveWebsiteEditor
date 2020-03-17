@@ -1,0 +1,15 @@
+{
+  "title": "career",
+  "path": "/career",
+  "hero": {
+    "ctas": [
+      {
+        "label": "Hello",
+        "link": "h"
+      }
+    ],
+    "large": true,
+    "headline": "Welcome to Tina Grande.vxcxc",
+    "textline": "xcvxvxvx"
+  }
+}
