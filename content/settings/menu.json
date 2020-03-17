@@ -1,6 +1,13 @@
 {
   "menuItems": [
     {
+      "label": "Career",
+      "link": "/career",
+      "subMenu": [
+        {}
+      ]
+    },
+    {
       "label": "Home",
       "link": "/"
     },
@@ -16,5 +23,8 @@
       "label": "Contact",
       "link": "/contact"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/menu.json"
+  }
 }

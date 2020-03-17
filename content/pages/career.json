@@ -11,5 +11,19 @@
     "large": true,
     "headline": "Welcome to Tina Grande.vxcxc",
     "textline": "xcvxvxvx"
-  }
+  },
+  "blocks": [
+    {
+      "title": "Career",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "hello this is my first content for this page\n\n* 112321[']()\n* 123\n* 312\n* 3123",
+      "center": true,
+      "_template": "ContentBlock"
+    }
+  ]
 }
